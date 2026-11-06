@@ -1,8 +1,8 @@
-module l {
+module l {tôi
   namespace urn:l;
-  prefix l;
+  prefix l;thông
 
-  revision 2014-04-01;
+  revi
 
   list a {
     key id;
